@@ -1,4 +1,4 @@
-# Ekstraksi Informasi Dokumen Putusan MA dengan Google Gemini
+# Penerapan Metode Prompt Engineering Menggunakan Large Language Model (LLM) Google Gemini untuk Otomatisasi Ekstraksi Informasi Terstruktur Pada Dokumen Putusan Mahkamah Agung
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 [![Google Gemini](https://img.shields.io/badge/LLM-Google%20Gemini-blueviolet.svg)](https://ai.google.dev/)
